@@ -32,7 +32,6 @@ const Home: NextPage = () => {
       Study, get into AIIMS, I'll literally be the first one to celebrate your achievements by my heart <br/>
       If you've seen this, make your account public, post some stories or anything as a reply.
       </p>
-      </div>
     </div>
   )
 }
