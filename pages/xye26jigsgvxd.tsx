@@ -25,7 +25,7 @@ const Home: NextPage = () => {
       mera life ka phela badaaaaaaaaaaaaaa sponsorship mila ($75, samjh nahi aarha kya kya kharidu, bought discord nitro & spotify premium) <br/>
       u made efforts for me? <br/>
       im doing the same <br/>
-      imma bath, exrcise daily now. (texts like of my discord variant)<br/><br)>
+      imma bath, exrcise daily now. (texts like of my discord variant)<br/><br/>
       Still just 3 requests? <br/>
       Don't hurt my feelings too, I guranttee, after my mom's sayings, I'm never doing to your's <br/>
       Treat me as your brother, nothing else <br/>
