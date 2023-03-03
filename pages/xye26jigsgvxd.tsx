@@ -8,7 +8,7 @@ const Home: NextPage = () => {
       <Head>
         <title></title>
       </Head>
-      <p className="text-[1.5rem] pop">
+      <p className="text-[1.5rem] text-white opacity-80 pop">
       ummm... <br/>
       Sorry <br/>
       main apne parents ko yeh bolte hue sunna hu ki voh mereko yeh umr se bacchana chahte the jab baccha log galli aur vahi sab ke baare mein janna aur sikhna shuru karte hai, mere parents mereko C.S. mein itna interest karwa diye ki yeh sab ke liye time hi nahi raha aur vaise bhi main apna pichla school mein lonely rahna prefer karta tha (I mean hu, abhi bhi prefer vahi jyada karta hu). <br/>
