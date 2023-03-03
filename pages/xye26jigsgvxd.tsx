@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br py-12 px-12">
+    <div className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-r from-violet-800 to-red-400 py-12 px-12">
       <Head>
         <title></title>
       </Head>
