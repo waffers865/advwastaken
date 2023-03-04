@@ -1,6 +1,6 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import Image from 'next/image'
+import type { NextPage } from "next";
+import Head from "next/head";
+import Image from "next/image";
 
 const Home: NextPage = () => {
   return (
@@ -9,13 +9,25 @@ const Home: NextPage = () => {
         <title></title>
       </Head>
       <p className="text-[1.5rem] text-white opacity-80 pop">
-     <s> You forgot to make your account public? Or you decided to decline/ignore me? <br/>
-If you've chosen to ignore, I'm doing the same. I wish never of this actually happened or I forget all of this which is just impossible. Thanks for your curses in advance.
-Ain't running behind you anymore. Gotta play valorant ngl </s> <br/><br/>
-How the hell could you even think of it? Your brother just told you he ain't hurting your feelings anymore. Three ppls who I can never cross, my parents. And I consider you as my sis. HAPPY BELATED BIRTHDAY 19 DEC! (Why again? Thought of mentioning the date too)
-</p>
+        <s>
+          {" "}
+          You forgot to make your account public? Or you decided to
+          decline/ignore me? <br />
+          If you've chosen to ignore, I'm doing the same. I wish never of this
+          actually happened or I forget all of this which is just impossible.
+          Thanks for your curses in advance. Ain't running behind you anymore.
+          Gotta play valorant ngl{" "}
+        </s>{" "}
+        <br />
+        <br />
+        How the hell could you even think of it? Your brother just told you he
+        ain't hurting your feelings anymore. Three ppls who I can never cross,
+        my parents. And I consider you as my sis. HAPPY BELATED BIRTHDAY 19 DEC!
+        (Why again? Thought of mentioning the date too)
+      </p>
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
+
