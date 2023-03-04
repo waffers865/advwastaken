@@ -24,6 +24,9 @@ const Home: NextPage = () => {
         ain't hurting your feelings anymore. Three ppls who I can never cross,
         my parents. And I consider you as my sis. HAPPY BELATED BIRTHDAY 19 DEC!
         (Why again? Thought of mentioning the date too)
+        <br />
+        <br />
+        My index page <a href='/' className='text-blue-700'>https://advwastaken.vercel.app</a> just reached 31K views, UNBELIEVABLE  :O
       </p>
     </div>
   );
