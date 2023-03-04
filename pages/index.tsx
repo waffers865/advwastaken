@@ -1,15 +1,17 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+import Link from "next/link";
 
 const Home: NextPage = () => {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <Head>
         <title>ADV</title>
-        <link rel="icon" href="/logo.jpg" />
+        <link rel="shortcut icon" href="/logo.png" />
       </Head>
 
       <p className="pop text-xl mb-8"><span className="text-green-400"> Sponsored</span> by</p>
+      <Link href="https://wheregroup.com/"/>
       <div className="h-auto w-80 py-12 px-8 flex flex-col space-y-8 items-center justify-center shadow-2xl">
         <svg version="1.1" id="Layer_1" viewBox="0 0 168.3 176.6" height={60}>
         <title>Wheregroup Logo</title>
@@ -85,6 +87,7 @@ const Home: NextPage = () => {
           />
         </svg>
       </div>
+     </Link>
     </div>
   );
 };
