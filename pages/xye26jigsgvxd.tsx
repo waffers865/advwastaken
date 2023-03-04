@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <title></title>
       </Head>
       <p className="text-[1.5rem] text-white opacity-80 pop">
-      You forgot to make your account public?
+      You forgot to make your account public? Or you decided to decline/ignore me?
 </p>
     </div>
   )
