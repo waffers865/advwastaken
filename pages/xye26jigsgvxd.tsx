@@ -26,7 +26,7 @@ const Home: NextPage = () => {
         (Why again? Thought of mentioning the date too)
         <br />
         <br />
-        My index page <Link href='/' className='text-blue-700'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O
+        My index page <Link href='/' className='text-blue-700 underline'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O
       </p>
     </div>
   );
