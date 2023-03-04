@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Home: NextPage = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center py-2">
+    <div className="flex min-h-screen bg-[#111] flex-col items-center justify-center py-2">
       <Head>
         <title>ADV</title>
         <link rel="shortcut icon" href="/logo.png" />
