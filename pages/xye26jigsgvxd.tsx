@@ -21,7 +21,8 @@ I wanted to let you know you're one of my highest priority person, you may lose 
 I started making your WebApp, and just realised I know nothing about you, shall I literally make an empty WebApp ☠️ (makhan vakhan nahi laga rha joh hai vahi likh rha hu)
         <br />
         <br />
-        My index page <Link href='/' className='text-blue-700 underline'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O
+        My index page <Link href='/' className='text-blue-700 underline'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O <br/>
+        I'm never talking with you the same way I've done before, cause I now know there's some differences between you and me.
       </p>
     </div>
   );
