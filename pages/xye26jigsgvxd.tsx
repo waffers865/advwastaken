@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Image from "next/image";
+import Link from "next/link";
 
 const Home: NextPage = () => {
   return (
@@ -26,7 +26,7 @@ const Home: NextPage = () => {
         (Why again? Thought of mentioning the date too)
         <br />
         <br />
-        My index page <a href='/' className='text-blue-700'>https://advwastaken.vercel.app</a> just reached 31K views, UNBELIEVABLE  :O
+        My index page <Link href='/' className='text-blue-700'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O
       </p>
     </div>
   );
