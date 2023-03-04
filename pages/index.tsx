@@ -10,7 +10,7 @@ const Home: NextPage = () => {
         <link rel="shortcut icon" href="/logo.png" />
       </Head>
 
-      <p className="pop text-xl mb-8"><span className="text-green-400"> Sponsored</span> by</p>
+      <p className="pop text-xl mb-8 text-[#eee]"><span className="text-green-400"> Sponsored</span>  by</p>
       <Link href="https://wheregroup.com/">
       <div className="h-auto w-80 py-12 px-8 flex flex-col space-y-8 items-center justify-center shadow-2xl">
         <svg version="1.1" id="Layer_1" viewBox="0 0 168.3 176.6" height={60}>
