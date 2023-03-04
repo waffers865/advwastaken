@@ -24,6 +24,10 @@ const Home: NextPage = () => {
         ain't hurting your feelings anymore. Three ppls who I can never cross,
         my parents. And I consider you as my sis. HAPPY BELATED BIRTHDAY 19 DEC!
         (Why again? Thought of mentioning the date too)
+<br/>
+2 things that I can never ignore (there's more but I can't recall rn) :-<br/>
+- Fireship, Beyond Fireship videos
+- One of my most favourite person smiling/happy/enjoying.
         <br />
         <br />
         My index page <Link href='/' className='text-blue-700 underline'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O
