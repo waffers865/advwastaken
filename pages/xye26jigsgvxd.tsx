@@ -28,6 +28,9 @@ const Home: NextPage = () => {
 2 things that I can never ignore (there's more but I can't recall rn) :-<br/>
 - Fireship, Beyond Fireship videos <br/>
 - One of my most favourite person smiling/happy/enjoying.
+<br/>
+<br/>
+I started making your WebApp, and just realised I know nothing about you, shall I literally make an empty WebApp ☠️
         <br />
         <br />
         My index page <Link href='/' className='text-blue-700 underline'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O
