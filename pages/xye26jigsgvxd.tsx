@@ -26,7 +26,7 @@ const Home: NextPage = () => {
         (Why again? Thought of mentioning the date too)
 <br/>
 2 things that I can never ignore (there's more but I can't recall rn) :-<br/>
-- Fireship, Beyond Fireship videos
+- Fireship, Beyond Fireship videos <br/>
 - One of my most favourite person smiling/happy/enjoying.
         <br />
         <br />
