@@ -22,7 +22,8 @@ I started making your WebApp, and just realised I know nothing about you, shall 
         <br />
         <br />
         My index page <Link href='/' className='text-blue-700 underline'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O <br/>
-        I'm never talking with you the same way I've done before, cause now I know there are some differences between you and me.
+        I'm never talking with you the same way I've done before, cause now I know there are some differences between you and me. <br/>
+        If I ever make an eye contact with you, I'll be ashamed that I treated a soul, in the worst way possible, through your eyes.
       </p>
     </div>
   );
