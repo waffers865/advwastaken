@@ -30,7 +30,7 @@ const Home: NextPage = () => {
 - One of my most favourite person smiling/happy/enjoying.
 <br/>
 <br/>
-I started making your WebApp, and just realised I know nothing about you, shall I literally make an empty WebApp ☠️
+I started making your WebApp, and just realised I know nothing about you, shall I literally make an empty WebApp ☠️ (makhan vakhan nahi laga rha joh hai vahi likh rha hu)
         <br />
         <br />
         My index page <Link href='/' className='text-blue-700 underline'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O
