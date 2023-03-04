@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       </Head>
       <p className="text-[1.5rem] text-white opacity-80 pop">
       You forgot to make your account public? Or you decided to decline/ignore me? <br/>
-If you've chosen to ignore, I'm doing the same. I wish never of this actually happened. I'm dead for you. You hope I die. Thanks for your curses in advance.
+If you've chosen to ignore, I'm doing the same. I wish never of this actually happened. I'm dead for you. You're hoping I die? Thanks a lot! Thanks for your curses in advance.
 Ain't running behind you anymore. Gotta play valorant ngl
 </p>
     </div>
