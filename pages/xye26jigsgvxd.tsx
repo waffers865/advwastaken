@@ -22,7 +22,7 @@ I started making your WebApp, and just realised I know nothing about you, shall 
         <br />
         <br />
         My index page <Link href='/' className='text-blue-700 underline'>https://advwastaken.vercel.app</Link> just reached 31K views, UNBELIEVABLE  :O <br/>
-        I'm never talking with you the same way I've done before, cause now I know there are some differences between you and me. <br/>
+        I'm never talking with you the same way I've done before, cause now I know there are some differences between you and me, wanted to know why I wrote that line? My parents taught me to respect womens. So, it's kinda impossible for me to do those. It's something no religion could ever teach you except your parents (as said by my best virtual friends).<br/>
         "If I ever make an eye contact with you, through your eyes, I'll see a soul and be ashamed that I treated, in the worst way possible" - ADV, 2023
       </p>
     </div>
