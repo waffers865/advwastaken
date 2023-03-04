@@ -9,21 +9,9 @@ const Home: NextPage = () => {
         <title></title>
       </Head>
       <p className="text-[1.5rem] text-white opacity-80 pop">
-        <s>
-          {" "}
-          You forgot to make your account public? Or you decided to
-          decline/ignore me? <br />
-          If you've chosen to ignore, I'm doing the same. I wish never of this
-          actually happened or I forget all of this which is just impossible.
-          Thanks for your curses in advance. Ain't running behind you anymore.
-          Gotta play valorant ngl{" "}
-        </s>{" "}
-        <br />
-        <br />
-        How the hell could you even think of it? Your brother just told you he
-        ain't hurting your feelings anymore. Three ppls who I can never cross,
-        my parents. And I consider you as my sis. HAPPY BELATED BIRTHDAY 19 DEC!
-        (Why again? Thought of mentioning the date too)
+        Population in billions, millions better than me still you choose me? <br/>
+OK, I realised one day I'll have to go away from you, seeing the quote "You don't value something until it's gone forever" <br/>
+I wanted to let you know you're one of my highest priority person, you may lose interest in me in future, but I wouldn't *never* in you (always my cool/sick sis). Did you realised since we were in sec. B, we been making memories?
 <br/>
 2 things that I can never ignore (there's more but I can't recall rn) :-<br/>
 - Fireship, Beyond Fireship videos <br/>
