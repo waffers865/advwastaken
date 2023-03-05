@@ -32,7 +32,7 @@ const router = useRouter()
         </div>
 
         <div className="relative w-full mt-12 lg:w-1/2 lg:mt-0">
-            <img className="w-full max-w-lg lg:mx-auto" src="/illustration.svg" alt="">
+            <img className="w-full max-w-lg lg:mx-auto" src="/illustration.svg" alt=""/>
         </div>
     </div>
 </section>
