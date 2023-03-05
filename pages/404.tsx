@@ -23,9 +23,6 @@ const router = useRouter()
 
                     <span >Go back</span>
                 </button>
-<Link href="/">
-               
-</Link>
             </div>
         </div>
 
