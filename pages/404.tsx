@@ -8,7 +8,11 @@ const Home: NextPage = () => {
 const router = useRouter()
    return (
 <section className="bg-[#111] ">
-    <div className="container min-h-screen px-6 py-12 mx-auto lg:flex lg:items-center lg:gap-12">
+<Head>
+        <title>404</title>
+        <link rel="shortcut icon" href="/logo.png" />
+      </Head>
+    <div className="container min-h-screen flex flex-col items-center justify-center px-6 py-12 mx-auto lg:flex lg:items-center lg:gap-12">
         <div className="wf-ull lg:w-1/2">
             <p className="text-sm font-medium text-blue-500 dark:text-blue-400">404 error</p>
             <h1 className="mt-3 text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">Page not found</h1>
