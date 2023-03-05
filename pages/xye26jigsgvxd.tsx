@@ -4,8 +4,8 @@ import Link from "next/link";
 
 const Home: NextPage = () => {
   return (
-    <div className="min-h-screen w-full bg-black py-12 px-4">
-      <p className="text-lg pop">
+    <div className="min-h-screen w-full bg-[#111] py-12 px-12">
+      <p className="text-lg text-[#eee] pop">
         Presenting you, <a className="text-blue-700 underline" href="https://waffers865.github.io/dav-ss/">https://waffers865.github.io/dav-ss/ </a>
       , as your birthday gift from your brother. I've focused on speed rather than design for now. Currently, it's version 0.3, I guranttee till v1.0, it'd get stable from UI to security, everything.
 Don't tell anyone I made this. Instead tell I (you) made this, to compete with ADV or something. <br/>
