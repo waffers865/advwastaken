@@ -6,8 +6,8 @@ const Home: NextPage = () => {
   return (
     <div className="min-h-screen w-full bg-[#111] py-24 px-12">
       <p className="text-sm text-[#eee] pop">
-        I made you a WebApp and still you chose to ignore me? You never actually had any feelings for me. <br/>
-I'VE DELETED IT. THANKS FOR EVERYTHING YOU'VE DONE FOR ME, BUT I'M REALLY FED UP NOW. LET ME TREAT YOU YHE WAY I TREAT OTHERS.
+        I made you a WebApp and still you chose to ignore me? You never actually had any feelings for me<br/>
+I'VE DELETED IT<br/>THANKS FOR EVERYTHING YOU'VE DONE FOR ME <br/>BUT I'M REALLY FED UP NOW <br/>LET ME TREAT YOU ThE WAY I TREAT OTHERS<br/>
 </p>
     </div>
   )
