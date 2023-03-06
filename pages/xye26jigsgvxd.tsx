@@ -13,7 +13,7 @@ Good luck finding a better person than me. <br/>
 Last day of 11th, I thought of talking to you irl, but couldn't find you although I was waiting for someone else too. Yeah that's what your and my god decided, I'm never talking to 3 DAVIANS, you know the first one, along with two who have the same mindset towards me. <br/>
 Thanks for making me cry fifth time. THAT'S NOT WHAT REAL FRIENDS DO.
 You entering a room I'm in there already = me running away <br/>
-I had even felt like I was getting a soulmate to whom I could share my feelings, HOW WRONG I WAS. Kitna dil pe pathar rakhe likhna padh rha hai
+I had even felt like I was getting a soulmate to whom I could share my feelings, HOW WRONG I WAS. Kitna dil pe pathar rakhe likhna padh rha hai, lekin apko isse kya hi lena dena hai
 <br/><br/>
 
  Saionara.  
