@@ -6,17 +6,11 @@ const Home: NextPage = () => {
   return (
     <div className="min-h-screen w-full bg-[#111] py-24 px-12">
       <p className="text-sm text-[#eee] pop">
-      You're the first person who made me cry, and feel ignored. Congratulations 🎉, there are somethings you're gonna get in return for that too. Breaking all bonds with you no matter what you're to me. OK, joking again? It's funny 😂. Let's see if it's a joke and YOU HOPE IT WAS JUST A JOKE. Your WebApp was on update v0.7 and I really just don't care about it anymore. <br/>
-I realised you're coming between me and my academical life. There are only some stuffs in between if anyone comes, no matter whoever they're, I'm breaking all bonds whatsoever. You came in between me and my C.S life. I just don't care about you anymore. Yes it's me, I wear muffer all around my head, no virtual person knows about my irl activities except ppl like you. Anyways got my sponsorship money, you may find me in/around Katras-Bazar nowadays. Enjoy with your new friends and let me enjoy with my new team, JUST LEAVE ME ALONE.
-<br/> You literally thought I'd say worldwide lectures for you? Like I'm going to die for you or things like that? I already told you "You dragged me into a field I've never been before", YOU LITERALLY DRAGGED ME FROM THE SPOTIFY SONG "ALL I WANT IS YOU" TO "MISS YOU". <br/>
-Good luck finding a better person than me. <br/>
-Last day of 11th, I thought of talking to you irl, but couldn't find you although I was waiting for someone else too. Yeah that's what your and my god decided, I'm never talking to 3 DAVIANS, you know the first one, along with two who have the same mindset towards me. <br/>
-Thanks for making me cry fifth time. THAT'S NOT WHAT REAL FRIENDS DO.
-You entering a room I'm in there already = me running away <br/>
-I had even felt like I was getting a soulmate to whom I could share my feelings, HOW WRONG I WAS. Kitna dil pe pathar rakhe likhna padh rha hai, lekin apko isse kya hi lena dena hai
-<br/><br/>
-
- Saionara.  
+      Bruh, I can't really get you out of my mind, sis. You're literally one of my life's most trustable and favourite person. I won't hurt your feelings however how much you do to mine. <br/>
+I'm a boy I'm used to getting my feelings hurt, but you're different, I was once again treating you as a boy, you need to understand I've no experience talking to, ughhhhh, <you know this word>, You hate me? I don't really care, I'm gonna treat you the same way I've ever done. Sorry, for my all misdeed. Thank you for everything you've done for me. <br/>
+Fun fact: I knew you won't login into my account ever, I've never changed it's password. I mean you're my sis, really. <br/>
+Bruh, that day, I turned around my head, saw you literally in my hairstyle, smiling, one of the best moments of my life, my sister.
+Look, if you promise me to never talk about marriage and all, I'll literally talk, play with you IRL, but I think I may be different IRL, won't talk this much. 
 </p>
     </div>
   )
