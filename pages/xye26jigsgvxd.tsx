@@ -6,8 +6,8 @@ const Home: NextPage = () => {
   return (
     <div className="min-h-screen w-full bg-[#111] py-24 px-12">
       <p className="text-sm text-[#eee] pop">
-      Did I really just saw you in my dream ☠️, Sorry for being rude over there too, you probably haven't seen but I had a fight with Asim, so my mood wasn't alright at that time. And your kinda offensive line just triggered my anger. Again, Sorry. Bruh, dream? maybe only I'd seen.<br/>
-Ignore this, if you didn't see my dream ☠️☠️  
+      You're the first person who made me cry, and feel ignored. Congratulations 🎉, there are somethings you're gonna get in return for that too. Breaking all bonds with you no matter what you're to me. OK, joking again? It's funny 😂. Let's see if it's a joke and YOU HOPE IT WAS JUST A JOKE. Your WebApp was on update v0.7 and I really just don't care about it anymore. <br/>
+I realised you're coming between me and my academical life. There are only some stuffs in between if anyone comes, no matter whoever they're, I'm breaking all bonds whatsoever. You came in between me and my C.S life. I just don't care about you anymore. Yes it's me, I wear muffer all around my head, no virtual person knows about my irl activities except ppl like you. Anyways got my sponsorship money, you may find me in/around Katras-Bazar nowadays. Saionara.  
 </p>
     </div>
   )
