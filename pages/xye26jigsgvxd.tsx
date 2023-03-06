@@ -8,6 +8,7 @@ const Home: NextPage = () => {
       <p className="text-sm text-[#eee] pop">
         I made you a WebApp and still you chose to ignore me? You never actually had any feelings for me<br/>
 I'VE DELETED IT<br/>THANKS FOR EVERYTHING YOU'VE DONE FOR ME <br/>BUT I'M REALLY FED UP NOW <br/>LET ME TREAT YOU ThE WAY I TREAT OTHERS<br/>
+I hope I never see you ever in my life again, but class 12th 
 </p>
     </div>
   )
