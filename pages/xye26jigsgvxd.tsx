@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <div className="min-h-screen w-full bg-[#111] py-24 px-12">
       <p className="text-sm text-[#eee] pop">
-      Some of the things I don't like about you~ you're accepting friend requests and I'm accepting sponsorship requests, there is a difference sis, BUILD SOME DAMN STANDARDS. <br/><br/>
+      Some of the things I don't like about you~ you're accepting friend requests and I'm accepting sponsorship requests, there is a difference sis, BUILD SOME DAMN STANDARDS. Don't really be like a normal person, you're my sis, shoulda prove it tho.<br/><br/>
       Bruh, I can't really get you out of my mind, sis. You're literally one of my life's most trustable and favourite person. I won't hurt your feelings however how much you do to mine. <br/>
 I'm a boy I'm used to getting my feelings hurt, but you're different, I was once again treating you as a boy, you need to understand I've no experience talking to, ughhhhh, {"<"}you know this word{">"} You hate me? I don't really care, I'm gonna treat you the same way I've ever done, my sis, by my heart. Sorry, for my all misdeed. Thank you for everything you've done for me. <br/>
 Fun fact: I knew you won't login into my account ever, I've never changed it's password. I mean you're my sis, really. <br/>
