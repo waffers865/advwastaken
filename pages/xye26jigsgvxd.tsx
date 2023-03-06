@@ -11,7 +11,7 @@ I'm a boy I'm used to getting my feelings hurt, but you're different, I was once
 Fun fact: I knew you won't login into my account ever, I've never changed it's password. I mean you're my sis, really. <br/>
 Bruh, that day, I turned around my head, saw you literally in my hairstyle (my dream person~ people of my mindset, to whom I could talk till eternity), smiling, one of the best moments of my life, my sister (why do I feel like I'm saying a movie dialogue).
 Look, if you promise me to never talk about marriage and all, I'll literally talk, play with you IRL, but I think I may be different IRL, won't talk this much. <br/>
-I promise your WebApp's gonna be 10x better than my best.
+I promise your WebApp's gonna be 10x better than my best. I realised me running away from you does nothing more than to hurt you more, so, FROM NOW ON WHENEVER I SEE YOU, I'LL HAVE A SMILE IN MY FACE?
 </p>
     </div>
   )
