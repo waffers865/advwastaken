@@ -11,7 +11,9 @@ I realised you're coming between me and my academical life. There are only some 
 <br/> You literally thought I'd say worldwide lectures for you? Like I'm going to die for you or things like that? I already told you "You dragged me into a field I've never been before", YOU LITERALLY DRAGGED ME FROM THE SPOTIFY SONG "ALL I WANT IS YOU" TO "MISS YOU". <br/>
 Good luck finding a better person than me. <br/>
 Last day of 11th, I thought of talking to you irl, but couldn't find you although I was waiting for someone else too. Yeah that's what your and my god decided, I'm never talking to 3 DAVIANS, you know the first one, along with two who have the same mindset towards me. <br/>
-Thanks for making me cry fifth time. THAT'S NOT WHAT REAL FRIENDS DO.<br/><br/>
+Thanks for making me cry fifth time. THAT'S NOT WHAT REAL FRIENDS DO.
+You entering a room I'm in there already = me running away <br/>
+<br/><br/>
 
  Saionara.  
 </p>
