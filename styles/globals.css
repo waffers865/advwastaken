@@ -1,14 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap");
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
+  ::selection {
+    background-color: mediumslateblue;
+    color: white;
+  }
+  .cc {
+    font-family: "Climate Crisis", cursive;
+  }
   .pop {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
   }
   img {
-     pointer-events: none;
+    pointer-events: none;
   }
 }
