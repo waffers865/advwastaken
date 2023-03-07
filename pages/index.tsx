@@ -76,7 +76,7 @@ const Home: NextPage = () => {
       </div>
 
       <div className="h-screen flex flex-col items-center justify-center w-full flex p-4 bg-[url('/bart.jpg')] bg-cover bg-center bg-fixed">
-        <p className="pop text-xl mb-8 text-[#111]">
+        <p className="pop text-xl mb-8 text-white">
           <span className="underline decoration-blue-600"> Sponsored by</span>
         </p>
         <Link href="https://wheregroup.com/">
