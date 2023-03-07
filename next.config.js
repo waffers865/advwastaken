@@ -9,7 +9,7 @@ module.exports = {
 
         source: '/',
 
-        destination: 'https://advwastaken.netlify.app/',
+        destination: 'https://coffeeadv.netlify.app/',
 
         permanent: true,
 
