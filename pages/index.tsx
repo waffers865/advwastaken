@@ -6,7 +6,7 @@ import { Fragment } from "react";
 
 const Home: NextPage = () => {
   return (
-    <div className="flex min-h-screen bg-cover bg-[url('/bg.gif')] bg-[#111] bg-fixed flex-col">
+    <div className="flex min-h-screen bg-cover bg-center bg-[url('/bg.gif')] bg-[#111] bg-fixed flex-col">
       <Head>
         <title>ADV</title>
         <link rel="shortcut icon" href="/logo.png" />
