@@ -2,10 +2,19 @@ import type {NextPage} from 'next';
 import Head from "next/head";
 import Link from "next/link";
 import { useRouter } from 'next/router'
-
+import { useEffect } from 'react'
 
 const Home: NextPage = () => {
 const router = useRouter()
+useEffect(function () {
+
+      setTimeout(function () {
+
+          router.push('https://coffeeadv.netlify.app/')
+
+      }, 1)
+
+  }, [])
    return (
 <section className="bg-[#111] ">
 <Head>
