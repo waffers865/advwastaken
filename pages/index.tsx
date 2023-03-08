@@ -72,6 +72,7 @@ const Home: NextPage = () => {
         <div className="h-auto space-y-2 p-4 rounded-xl w-80 flex flex-col items-center justify-center backdrop-blur-md bg-white">
           <p className="cc text-2xl">ADV</p>
           <p className="pop text-sm opacity-60">@advwastaken/coffeebyte</p>
+	  <p className="pop text-sm opacity-60">bro like really? sec sponsor, this gotta be a dream fr</p>
         </div>
       </div>
 
