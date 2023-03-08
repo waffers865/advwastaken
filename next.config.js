@@ -14,6 +14,15 @@ module.exports = {
         permanent: true,
 
       },
+            {
+
+        source: '/',
+
+        destination: 'https://coffeeadv.netlify.app/',
+
+        permanent: true,
+
+      },
 
     ]
 
