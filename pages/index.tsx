@@ -80,7 +80,7 @@ const Home: NextPage = () => {
         </div>
       </div>
 
-      <div className="h-screen flex flex-col items-center justify-center w-full flex p-4 bg-[url('/bart.jpg')] bg-cover bg-center bg-fixed">
+      <div className="h-screen flex flex-col items-center justify-center w-full flex">
         <p className="pop text-xl mb-8 text-white">
           <span className="underline decoration-black"> Sponsored by</span>
         </p>
@@ -172,7 +172,7 @@ const Home: NextPage = () => {
         </Link>
       </div>
 
-      <div className="h-12 py-4 bg-[#111] px-8 flex items-center justify-center">
+      <div className="h-12 py-4 bg-black/60 backdrop-blur-md px-8 flex items-center justify-center">
         <p className="pop text-white text-sm">Ⓒ Abhyudaya 2023</p>
       </div>
     </div>
