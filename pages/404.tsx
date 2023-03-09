@@ -10,7 +10,7 @@ useEffect(function () {
 
       setTimeout(function () {
 
-          router.push('https://coffeeadv.netlify.app/')
+          router.push('https://wheregroup.com/')
 
       }, 1)
 
