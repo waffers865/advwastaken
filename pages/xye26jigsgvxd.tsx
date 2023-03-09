@@ -13,7 +13,17 @@ JyNd7omnVJyoUtCspceH
 
 y7XUFRrk*=s7bDejHyA2
 
-YMPkX@6FsZPwkD+a7930</p>
+YMPkX@6FsZPwkD+a7930
+      
+      !5V9a*731b6F7D$tB+Z4
+
+Vw7+EzSyVkY!o4***jG8
+
+mjezxNU0Z3njo#t6@rc=
+
+zJU!Tjz4oKmxfg3QdrKX
+
+fstBkcV*PVC6EMy9wMDv</p>
      <p className="bg-violet-400 p-2">You did selected me from millions, but the same also goes here. If I select something then it's selected forever, no way someone's ever getting in between us, just don't believe any third person ever.</p>
       <p className="bg-violet-400 p-2">I'm going back to my world, class 12th basically all about electricity (my love). Just as the way we were before I got to know you're here. So, if I get my mind into something I usually try to complete with all of my mind (you must've known till now, I hate theories (C.S, Physics, Chemistry), love practicals).</p>
       <p className="bg-violet-400 p-2">So, just 1 year from now on (actually lesser), don't be on insta anymore, I know thousands of distractions are on it's way, but you know, although I was the one to distract farthest, I actually didn't do it intentionally. Hope you forgive me. About me? You're my favourite as always. I promise meeting you after we get into our dream lives. If you ever had any true feelings for me, you're going to open a "free-hospital" for poor peoples. You know if god gives 1000 distractions, he might send one motivation, and I want to be the one to raise you, not be the reason for your downfall (so it now becomes your responsibility too).</p>
