@@ -10,7 +10,7 @@ module.exports = {
 
         source: '/',
 
-        destination: 'https://zetta-adv.netlify.app/',
+        destination: 'https://youtu.be/TLysAkFM4cA',
 
         permanent: true,
 
