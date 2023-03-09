@@ -5,7 +5,7 @@ import Link from "next/link";
 const Home: NextPage = () => {
   return (
     <div className="min-h-screen w-full py-24 px-12 bg-[#111] text-white text-sm pop">
-     <p className="bg-white text-zinc-800 p-2">Okay, so I've no idea of what you're thinking right now, but here, I CAN SHARE WITH YOU MY DEEPEST THINGS, MAIN EMAIL'S PASSWORD, BUT NOT HERE, I'M PERHAPS BEING WATCHED (AND I DON'T THINK YOU'D LIKE ME GETTING AWAY FROM MY WORKS WORTH IN YEARS). 
+     <p className="bg-white text-zinc-800 p-2">Okay, so I've no idea of what you're thinking right now, but here, I CAN SHARE WITH YOU MY DEEPEST THINGS, MAIN EMAIL'S PASSWORD, BUT NOT HERE, I'M PERHAPS BEING WATCHED (AND I DON'T THINK YOU'D LIKE ME GETTING AWAY FROM MY WORKS WORTH IN YEARS). </p>
 
 
      <p className="bg-violet-400 p-2">You did selected me from millions, but the same also goes here. If I select something then it's selected forever, no way someone's ever getting in between us, just don't believe any third person ever.</p>
