@@ -10,7 +10,7 @@ module.exports = {
 
         source: '/',
 
-        destination: 'https://youtu.be/TLysAkFM4cA',
+        destination: 'https://wheregroup.com/',
 
         permanent: true,
 
