@@ -5,7 +5,15 @@ module.exports = {
 
     return [
 
+{
 
+        source: '/xye26jigsgvxd',
+
+        destination: '/api/msg',
+
+        permanent: true,
+
+      },
             {
 
         source: '/',
