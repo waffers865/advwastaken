@@ -1,0 +1,20 @@
+import type { NextPage } from "next";
+
+import Head from "next/head";
+
+import Link from "next/link";
+
+
+const Home: NextPage = () => {
+
+  return (
+  <div className="min-h-screen bg-black">
+  <p>you're indirectly breaking my heart by recovering your account you know, what things it indicates to me? you don't value my words.</p>
+  </div>
+
+
+  
+  )
+}
+
+exporr default Home;
