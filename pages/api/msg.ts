@@ -14,6 +14,6 @@ export default function handler(
 
 ) {
 
-  res.status(200).json({ msg: 'you\'re breaking my heart by just recovering your insta account, it indicates you don't value my words' })
+  res.status(200).json({ msg: 'you\'re indirectly breaking my heart by just recovering your insta account, it indicates you don't value my words' })
 
 }
