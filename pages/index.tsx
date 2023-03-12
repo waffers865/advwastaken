@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <div>
     <div className="h-2 w-full bg-[#CB4E38]"></div>
-    <div className="bg-[#18191B] min-h-screen w-full flex flex-col space-y-2 items-center justify-center px-8">
+    <div className="bg-[#18191B] min-h-screen w-full flex flex-col items-center justify-center px-8">
       <Head>
         <title>FireZetta</title>
         <link rel="shortcut icon" href="/logo.png" />
