@@ -34,7 +34,7 @@ const Home: NextPage = () => {
 
       <p>I'll never forget how much of a big risk I was about to take, risking all my WebApps, Apps, discord servers, and you just made me have faith on you more than anyone else.</p>
 
-      <p><br/><br/>Could you please post something in your old account, (dt29) to let me know you're watching this? I don't want to harm your privacy either.<br/><br/></p>
+      <p className="text-xl"><br/><br/>Could you please post something in your old account, (dt29) to let me know you're watching this? I don't want to harm your privacy either.<br/><br/></p>
       
       <p>*You have a much more beautiful life ahead* ~ ADV, 2023 - mark my words.</p>
 
