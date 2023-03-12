@@ -10,7 +10,7 @@ const Home: NextPage = () => {
 
     <div className="min-h-screen py-24 px-12 w-full bg-gradient-to-br from-violet-600 to-red-400 pop space-y-8 text-white/90 text-sm">
 
-      <p>Okay, I admit it SS, I've talked to you before on long texts just for increasing my typing speed, but now I feel like I'm actually typing from my mind and heart.</p>
+      <p>Okay, I admit it Sam (new nickname i give to ya, it's also of 3 letters, nice), I've talked to you before on long texts just for increasing my typing speed, but now I feel like I'm actually typing from my mind and heart.</p>
 
       <p>Ava by Famy on Spotify, I know any song could never deliver you my true feelings for you, but this song has the background song that kinda matches how I'm feeling right now. </p>
 
@@ -34,6 +34,8 @@ const Home: NextPage = () => {
 
       <p>I'll never forget how much of a big risk I was about to take, risking all my WebApps, Apps, discord servers, and you just made me have faith on you more than anyone else.</p>
 
+      <p><br/>Could you please post something in your old account, (dt29) to let me know you're watching this? I don't want to harm your privacy either.</p>
+      
       <p>*You have a much more beautiful life ahead* ~ ADV, 2023 - mark my words.</p>
 
     </div>
