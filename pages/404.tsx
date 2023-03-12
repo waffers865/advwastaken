@@ -8,15 +8,10 @@ const Home: NextPage = () => {
 const router = useRouter()
 useEffect(function () {
 
-      setTimeout(function () {
-
-          router.push('https://wheregroup.com/')
-
-      }, 1)
 
   }, [])
    return (
-<section className="bg-[#111] ">
+<section className="bg-[#18191B]">
 <Head>
         <title>404</title>
         <link rel="shortcut icon" href="/logo.png" />
