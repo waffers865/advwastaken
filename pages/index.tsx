@@ -14,7 +14,7 @@ const Home: NextPage = () => {
         <link rel="shortcut icon" href="/logo.png" />
       </Head>
         <img className="h-64 w-auto" src="/fire.gif" alt="loader"/>
-        <p className="text-xs pop text-white decoration-[#CB4E38] underline">Cut/Fired-off my relations with IRL (from secret routes to encrypted chats). Just like every year I do.</p>
+        <p className="text-xs pop text-white decoration-[#CB4E38] underline">Cut/Fired-off my relations with IRL (from secret routes to encrypted chats).</p>
     </div>
     </div>
   );
