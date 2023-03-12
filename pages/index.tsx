@@ -10,7 +10,7 @@ const Home: NextPage = () => {
     <div className="h-2 w-full bg-[#CB4E38]"></div>
     <div className="bg-[#18191B] min-h-screen w-full flex flex-col items-center justify-center px-8">
       <Head>
-        <title>FireZetta</title>
+        <title>Fire-off @ADVWASTAKEN</title>
         <link rel="shortcut icon" href="/logo.png" />
       </Head>
         <img className="h-64 w-auto" src="/fire.gif" alt="loader"/>
