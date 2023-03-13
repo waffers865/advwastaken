@@ -5,8 +5,7 @@ import Link from "next/link";
 const Home: NextPage = () => {
   return (
     <div>
-    <p>please i beg u, pass 11th, you changed back ur hairstyle, tried to show you hate me, but i don't really care about it, i just don't care what happened till now, u hurted me, i hurted you, just nothing, but please pass class 11th, among d world of these many fake friends, i just can't accept your downfall even if u want to see me fail, u know at d end of d day alongwith Arush & Gaurav, u r d only person i care about but i can't really help u in exams (i know u'd be abusing me for it, but i really really didn't wanted things to go this way), u need to do that urself just like us, i know ive been your distraction even in d time of exams, and i wish i had kept my mouth and action shut at that time, but i cant bring back the time either, listen, only for u, im disabling my WebApp although ive got a sponsorship for it and im not going to speak even a word anymore till i see you pass, if u r watching this please post something in your old account dt29, let me know<br/><s>You still choose to ignore me? let see how you're good at it than me, you choosed to ignore me, i choosed money over you ;)</s><br/>This is what team nitro & byte all are telling me to say but still I can't just let the person who I've trusted just get hurt by me</p>
-
+    i dont want a person like u in my life and that's it, yeah you deserve 1000000x better than me, you tryna dominate over me? find somebody else bro, seems like i gotta unblock emy and alice, truer sisters than what u are fr
   </div>
   )
 }
