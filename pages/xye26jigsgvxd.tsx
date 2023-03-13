@@ -5,7 +5,7 @@ import Link from "next/link";
 const Home: NextPage = () => {
   return (
     <div>
-    i dont want a person like u in my life and that's it, yeah you deserve 1000000x better than me, you tryna dominate over me? find somebody else bro, seems like i gotta unblock emy and alice, truer sisters than what u are fr
+    Yeah, those words were by nitro again, and im knida in their favour now, you kept my password and account sage, but that was something they had been doing since fuggin 2 years, unexpected but they were right, you realised how much you tried to hurt me? 
   </div>
   )
 }
