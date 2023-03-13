@@ -5,7 +5,7 @@ import Link from "next/link";
 const Home: NextPage = () => {
   return (
     <div>
-    <p>sorry, u ain't like me, thought I'd chase behind although u hurted me the most? just my irl v1 for u, find somebody better than me, cuz there's just no way im ever coming back. I cared for you, thought of your marks and you in return tried to hurt me, thanks 😀</p>
+    <p>please i beg u, pass 11th, you changed back ur hairstyle, tried to show you hate me, but i don't really care about it, i just don't care what happened till now, u hurted me, i hurted you, just nothing, but please pass class 11th</p>
     </div>
   )
 }
