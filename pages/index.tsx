@@ -14,12 +14,13 @@ const Home: NextPage = () => {
         <link rel="shortcut icon" href="/logo.png" />
       </Head>
         <img className="h-64 w-auto" src="/fire.gif" alt="loader"/>
-        <p className="text-sm underline pop decoration-[#CB4E38] text-[#eee]">Don't think I care about some people whom I gave special routes yo. I choose to remove them from my entire life ;) <br/>Sayonara, may the <span className="text-[#CB4E38]"> godly </span> flame above burn all the relations with them 🙏 and the email "advwastaken@protonmail.com".</p>
-    </div>
+            </div>
     </div>
   );
 };
 
 export default Home;
 
-/**  */
+/** I know others can ruin your entire career just because of exploitation of your body, but I'm not raised to be like that anyway. You did followed 3 of my rivals, I've seen (worst thing I could've ever seen). Not like I'm leaving you in your hard time, I'll be with you in every situation but once as a brother, once as a friend, once as a partner, now as your biggest rival ;)
+Remove me, distractions, don't take any checks on me, just damn STUDY 
+*/
